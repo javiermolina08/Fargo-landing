@@ -4,3 +4,8 @@ body
     font-family: 'Courier New', Courier, monospace;
     color: crimson;
 }
+
+#container
+{
+    font-size: 25px;
+}
